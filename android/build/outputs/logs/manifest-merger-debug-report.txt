@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+MERGED from [de.tomgrill.gdxfacebook:gdx-facebook-android:1.4.1] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-facebook-android-1.4.1.aar\01581a3c988ee593c75ecf8dadcb2f9a\AndroidManifest.xml:2:1-11:12
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.2.5] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-dialogs-android-1.2.5.aar\8ac8492f215e6da78bcb9dd42065c3e6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:21:1-40:12
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\0bb4befb862232a42956fdad994e3d0f\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e6848db0b5e5c22208bb54809240cfcd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\1520cc55033b0d798b236c1ba2d03529\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0a6d194b6ac54a787a00a12483e45e3a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\acce6639185cb1adac277907a62bf8a9\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8e61687823b4cb733e805bbfcbe23fc6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\fe745408f22dd281f4cb6e8cfb5680be\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\f6d1bccadd8739c9679f5e5620ad5373\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\82ab04e2d10b20166bc7140f0c334947\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\6df1ebc58eeaae484e07f852c83f0e98\AndroidManifest.xml:17:1-27:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:5-73
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:5-73
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:5-73
+MERGED from [de.tomgrill.gdxfacebook:gdx-facebook-android:1.4.1] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-facebook-android-1.4.1.aar\01581a3c988ee593c75ecf8dadcb2f9a\AndroidManifest.xml:5:5-7:41
+MERGED from [de.tomgrill.gdxfacebook:gdx-facebook-android:1.4.1] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-facebook-android-1.4.1.aar\01581a3c988ee593c75ecf8dadcb2f9a\AndroidManifest.xml:5:5-7:41
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.2.5] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-dialogs-android-1.2.5.aar\8ac8492f215e6da78bcb9dd42065c3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.2.5] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-dialogs-android-1.2.5.aar\8ac8492f215e6da78bcb9dd42065c3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\0bb4befb862232a42956fdad994e3d0f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\0bb4befb862232a42956fdad994e3d0f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e6848db0b5e5c22208bb54809240cfcd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e6848db0b5e5c22208bb54809240cfcd\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\1520cc55033b0d798b236c1ba2d03529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\1520cc55033b0d798b236c1ba2d03529\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0a6d194b6ac54a787a00a12483e45e3a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0a6d194b6ac54a787a00a12483e45e3a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\acce6639185cb1adac277907a62bf8a9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\acce6639185cb1adac277907a62bf8a9\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8e61687823b4cb733e805bbfcbe23fc6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8e61687823b4cb733e805bbfcbe23fc6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\fe745408f22dd281f4cb6e8cfb5680be\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\fe745408f22dd281f4cb6e8cfb5680be\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\f6d1bccadd8739c9679f5e5620ad5373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\f6d1bccadd8739c9679f5e5620ad5373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\82ab04e2d10b20166bc7140f0c334947\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\82ab04e2d10b20166bc7140f0c334947\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\6df1ebc58eeaae484e07f852c83f0e98\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\6df1ebc58eeaae484e07f852c83f0e98\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:5-73
+INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:5-73
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:41-70
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:5:15-40
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+		INJECTED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml
+application
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:7:5-22:19
+MERGED from [de.tomgrill.gdxfacebook:gdx-facebook-android:1.4.1] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-facebook-android-1.4.1.aar\01581a3c988ee593c75ecf8dadcb2f9a\AndroidManifest.xml:9:5-20
+MERGED from [de.tomgrill.gdxfacebook:gdx-facebook-android:1.4.1] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-facebook-android-1.4.1.aar\01581a3c988ee593c75ecf8dadcb2f9a\AndroidManifest.xml:9:5-20
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.2.5] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-dialogs-android-1.2.5.aar\8ac8492f215e6da78bcb9dd42065c3e6\AndroidManifest.xml:9:5-20
+MERGED from [de.tomgrill.gdxdialogs:gdx-dialogs-android:1.2.5] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\gdx-dialogs-android-1.2.5.aar\8ac8492f215e6da78bcb9dd42065c3e6\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:28:5-38:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:28:5-38:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.0.0.aar\3f729f132ee441fefc93b1708eb1a9f1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\0bb4befb862232a42956fdad994e3d0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-v4-25.0.0.aar\0bb4befb862232a42956fdad994e3d0f\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e6848db0b5e5c22208bb54809240cfcd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.0.0.aar\e6848db0b5e5c22208bb54809240cfcd\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\1520cc55033b0d798b236c1ba2d03529\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\customtabs-25.0.0.aar\1520cc55033b0d798b236c1ba2d03529\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0a6d194b6ac54a787a00a12483e45e3a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-fragment-25.0.0.aar\0a6d194b6ac54a787a00a12483e45e3a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\acce6639185cb1adac277907a62bf8a9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.0.0.aar\acce6639185cb1adac277907a62bf8a9\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8e61687823b4cb733e805bbfcbe23fc6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.0.0.aar\8e61687823b4cb733e805bbfcbe23fc6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\fe745408f22dd281f4cb6e8cfb5680be\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.0.0.aar\fe745408f22dd281f4cb6e8cfb5680be\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\f6d1bccadd8739c9679f5e5620ad5373\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.0.0.aar\f6d1bccadd8739c9679f5e5620ad5373\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\82ab04e2d10b20166bc7140f0c334947\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.0.0.aar\82ab04e2d10b20166bc7140f0c334947\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\6df1ebc58eeaae484e07f852c83f0e98\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\support-compat-25.0.0.aar\6df1ebc58eeaae484e07f852c83f0e98\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:11:9-40
+activity#com.libgdx.demos.AndroidLauncher
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:15:13-50
+	android:label
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:16:13-83
+	android:name
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:13:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Vinod\Documents\LibgdxDemos\android\AndroidManifest.xml:19:27-74
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:34:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.18.0] C:\Users\Vinod\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.18.0.aar\2d2900f58436025966d6578db96a2b76\AndroidManifest.xml:37:19-68
